@@ -1,0 +1,9 @@
+Startup: 05/27/2021 - 17:54
+Recording complete: 	49	Time: 05/27/2021 - 17:54	Framerate: 56.1028
+Shutdown: 05/27/2021 - 17:54
+Startup: 05/27/2021 - 19:02
+Recording complete: 	49	Time: 05/27/2021 - 19:02	Framerate: 58.0969
+Shutdown: 05/27/2021 - 19:02
+Startup: 05/28/2021 - 15:17
+Recording complete: 	42	Time: 05/28/2021 - 15:17	Framerate: 56.4669
+Shutdown: 05/28/2021 - 15:17
